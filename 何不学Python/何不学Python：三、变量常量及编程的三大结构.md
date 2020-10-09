@@ -139,5 +139,5 @@ True or False
 
 接下来，使用这些逻辑运算，判断真与假后，再对真假两种结果做不同的操作，即是计算机编程中的第二个主要结构——分支结构。
 
-在下一章中，将为你介绍编程中的分支与循环结构。
-[何不学Python：四、编程基本结构之分支结构与循环结构](https://www.unitalk.fun/unitalk/public/d/108-python)
+在下一章中，将为你介绍编程中的分支结构，以及关于代码块的概念。
+[何不学Python：四、编程基本结构之分支结构](https://www.unitalk.fun/unitalk/public/d/108-python)
