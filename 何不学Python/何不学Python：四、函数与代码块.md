@@ -21,7 +21,7 @@ print("啊啊啊啊啊啊啊")
 函数要求的参数的类型和数量是在定义函数的时候规定的。如果你想定义一个不需要任何参数的函数，或者没有返回值的函数，也是可以的。这样的函数在之前称作“过程”。
 
 之前说过，你可以先用数学的方式理解编程中的函数。我们先从一个简单的二元函数来了解并定义一个Python的函数。
-[center]![函数1](Images/函数1.svg)[/center]
+[center]![函数1](https://raw.githubusercontent.com/MegaRange/Learning-Resource/master/%E4%BD%95%E4%B8%8D%E5%AD%A6Python/Images/%E5%87%BD%E6%95%B01.svg)[/center]
 我们现在有自变量`x`和`y`。在编程中，这些自变量成为了函数的参数。
 我们很容易就能用语言描述出这个函数的功能。至少从数学角度上可以：
 
@@ -142,7 +142,7 @@ Python定义变量的方式不像C语言那样需要做一次声明。只要你�
 2. 但你在你定义的函数，或者后面会讲到的类中，声明了一些对象，那它们**只能**在它们所在的函数定义和类定义中使用。
 
 这么多话往往不如一个图例：
-![作用域图解](Images/作用域1.png)
+![作用域图解](https://raw.githubusercontent.com/MegaRange/Learning-Resource/master/%E4%BD%95%E4%B8%8D%E5%AD%A6Python/Images/%E4%BD%9C%E7%94%A8%E5%9F%9F1.png)
 
 在图中，注释掉的两行，是会引发错误的代码。因为那两行代码所访问的对象，不在其作用域中，并不能访问。
 
