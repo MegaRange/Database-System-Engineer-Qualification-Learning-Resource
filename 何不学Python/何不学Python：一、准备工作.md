@@ -1,6 +1,10 @@
+[<<主目录](https://www.unitalk.fun/unitalk/public/d/55-python)
+
 [初言难择选，何不学**[color=#2b5b84]Py[/color][color=#ffd343]thon[/color]**？](https://www.unitalk.fun/unitalk/public/d/22-python)
-## [color=darkgreen]能不能把这课用人话讲好，让你们都能明白，就看我能不能行。[/color]
+
+### [color=darkgreen]能不能把这课用人话讲好，让你们都能明白，就看我能不能行。[/color]
 不对的地方要留言纠正我好改，Unitalk的初衷就是提供各种有用的信息。
+本教程按照**知识共享授权协议-署名-非商业用途-相同方式分享 4.0版本（CC BY-NC-SA 4.0）**发布。
 
 ### 1.下载Python
 Windows不像Linux这样自带Python，所以，我们要去 https://www.python.org/downloads/ 下一个。
@@ -38,7 +42,7 @@ Python的安装嫌麻烦是可以直接“Install Now”的。
 
 1. 使用`Ctrl+Shift+X`键，或者在左边点击四个方块的图标，打开“扩展程序”面板；
 2. 在搜索框输入`Chinese`，第一个应该就是简体中文语言包，点击旁边小小的蓝色`Install`按钮安装之；
-3. 使用`Ctrl+Shift+P`键，或者点击左下角的齿轮选择最上面的打开“命令面板”，这个“命令面板”在VSCode中经常用。记住这个按键组合吧！记成`CSP`。[color=gray]~（嗯？《反恐精英：移动版》？Counter ~Strike ~Portable）~[/color]
+3. 使用`Ctrl+Shift+P`键，或者点击左下角的齿轮选择最上面的打开“命令面板”，这个“命令面板”在VSCode中经常用。记住这个按键组合吧！记成**ＳＣＰ**。[color=gray]~（SCP-VS-0xC0DE！！！1！）~[/color]
 4. 输入`Configure Display Language`；
 5. 点击下面出现的`zh_cn`，也就是中文；
 6. 重启VSCode，它就会变成中文了。
@@ -53,7 +57,7 @@ Python的安装嫌麻烦是可以直接“Install Now”的。
 
 你现在可以尝试Python的各种打开方式了。
 使用`Win+R`键打开启动，或者Windows 10直接按一下`Win`键，输入`python`或者`py`，启动Python。
-注意Win10的这方法可能直接启动IDLE了，当然用IDLE更好啦，它是个学习工具，支持语法高亮。
+注意Win10的这方法可能直接启动IDLE了，当然用IDLE更好啦，它是个很好的学习工具，支持简单复制粘贴和语法高亮等便捷功能。
 你就可以在这里写Python代码了。
 
 现在你打开了Python的交互式界面，你可以像输入命令一样输入Python代码，回车后结果。
